@@ -1,0 +1,6 @@
+plotly==5.15.0
+pandas==1.5.3
+seaborn==0.12.2
+matplotlib==3.7.1
+
+postgresql==15
